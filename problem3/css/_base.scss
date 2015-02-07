@@ -1,0 +1,34 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+  font-family: georgia, serif;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+  margin-bottom: 5px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 14px;
+}
+
+a {
+  color: $blue;
+  text-decoration: none;
+}
+
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,2 @@
+html{box-sizing:border-box}body{margin:0}.col{display:table-cell}.content{padding:10px}.col-left{background:red;width:170px}.col-mid{background:green;min-width:350px}.col-right{background:yellow;width:200px}@media only screen and (max-width: 720px){.col{display:block}.col-left,.col-mid,.col-right{float:left;display:block;width:100%}}
+/*# sourceMappingURL=style.css.map */
